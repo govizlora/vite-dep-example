@@ -1,5 +1,5 @@
 // Works with uuid@3
-import uuid from "uuid/v4"
+import uuid from "uuid"
 
 // Works with uuid@8
 // import { v4 } from "uuid";
